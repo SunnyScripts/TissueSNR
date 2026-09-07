@@ -1,5 +1,5 @@
 # Tissue Signal to Noise Solver
-**Measuring the Signal-to-Noise Ratio in Non-Neural Tissue**
+**Measuring the Bioelectric Signal-to-Noise Ratio in Non-Neural Tissue**
 
 ![Application GUI Image](app_image.png)
 
